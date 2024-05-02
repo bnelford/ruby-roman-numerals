@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-roman-numerals/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-roman-numerals/actions/workflows/ruby.yml)
+
 # Roman Numerals
 
 Write a function to convert from normal numbers to Roman Numerals.
